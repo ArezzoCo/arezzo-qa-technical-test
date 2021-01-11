@@ -1,0 +1,16 @@
+{
+  "HomePage": {
+    "CampoDePesquisa": {
+      "type": "ID",
+      "value": "search_query_top"
+    },
+    "CampoDePesquisaSumbit": {
+      "type": "CSS",
+      "value": "#searchbox > button"
+    },
+    "SelecioarPrimeiraProdutoDaPesquisa": {
+      "type": "CSS",
+      "value": "#center_column > ul > li:nth-child(1) > div > div.left-block > div"
+    }
+  }
+}
