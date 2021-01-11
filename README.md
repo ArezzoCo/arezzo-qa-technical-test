@@ -17,7 +17,7 @@ Siga as instruções abaixo e casa haja duvida entre em contato com a gente.
 - Compreenda e defina os testes de aceitação.
 - Explique os metodos utilizados e o porque de sua utilização.
 - Fique a vontade para comentar o código que irá nos enviar explicando o que cada  item deve realizar.
-- Lembre que a prova contém somenete um cenário mas a arquitetura a ser usada deve ser escalavel.
+- Lembre que a prova contém somente um cenário mas a arquitetura a ser usada deve ser escalável.
 - Para rodar o projeto devemos utilizar o JUnit.
 
 
